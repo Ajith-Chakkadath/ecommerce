@@ -1,0 +1,34 @@
+.sign-up-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #03cafc;
+}
+
+.signup-card{
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px opx 5px rgba(0, 0, 0, 0.3);
+}
+
+.signup-card h1{
+    margin-bottom: 30px;
+}
+
+.signup-card form input{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.signup-card form button{
+    width: 100%;
+    padding: 10px;
+    background-color: #03cafc;
+    border-radius: 3px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

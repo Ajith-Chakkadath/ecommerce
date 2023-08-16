@@ -1,0 +1,21 @@
+
+.header{
+    background-color: beige;
+    padding: 20px;
+    color: #ff5723;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header h1{
+    margin:0;
+    text-transform: uppercase;
+}
+.login-button{
+    background-color: #ff5723;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
